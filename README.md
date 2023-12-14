@@ -4,13 +4,6 @@
 - 🌱 I'm currently learning web development along with artificial intelligence
 - 📫 How to reach me: atobiasangeles@gmail.com
 
-#### You can connect with me!
-<!--
-[](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png])
-
-![https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png](www.linkedin.com/in/alejatob)
-
--->
 <!--
 **satse13/satse13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
